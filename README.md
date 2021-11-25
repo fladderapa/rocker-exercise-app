@@ -1,7 +1,7 @@
 # rocker-exercise-app
 
 Tested on ios only
-using node v15.0.0
+using node v16.0.0
 
 ### To start project
 Make you have expo installed globally\
